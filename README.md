@@ -1,6 +1,6 @@
 # Ex02 Django ORM Web Application
-# Name:HARI PRASATH E
-# Ref No: 25007799
+# Name:Gayathri D
+# Ref No: 212224220028
 ## Date: 14-09-2025
 
 ## AIM
